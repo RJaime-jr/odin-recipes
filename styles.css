@@ -1,0 +1,22 @@
+
+/*Styles.css*/
+
+
+*{
+
+    background-color: rgb(248, 238, 195);
+}
+
+
+.food_img{
+    max-width: 500px;
+    max-height: 500px;
+}
+
+h1{
+    color: rgb(36, 128, 248)
+}
+
+h3{
+    color: rgb(5, 79, 177);
+}
